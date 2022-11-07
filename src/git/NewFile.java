@@ -6,5 +6,6 @@ public class NewFile {
 		System.out.println("두번째파일");
 		
 	}
+	
 
 }
